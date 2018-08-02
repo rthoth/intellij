@@ -426,7 +426,6 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="616161" />
         <option name="ERROR_STRIPE_COLOR" value="616161" />
       </value>
     </option>
@@ -500,6 +499,12 @@
       <value>
         <option name="FOREGROUND" value="93a2cc" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="6767ca" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
