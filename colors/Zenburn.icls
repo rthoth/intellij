@@ -556,7 +556,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="948567" />
+        <option name="BACKGROUND" value="0" />
         <option name="ERROR_STRIPE_COLOR" value="948567" />
       </value>
     </option>
