@@ -416,6 +416,12 @@
     <option name="DEFAULT_PARENTHS">
       <value />
     </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="9076ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="cc9393" />
