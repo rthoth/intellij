@@ -3,7 +3,7 @@
     <property name="created">2019-03-22T11:54:09</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-03-22T11:54:14</property>
+    <property name="modified">2019-04-11T16:43:01</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version)</property>
   </metaInfo>
   <colors>
@@ -1256,6 +1256,15 @@
       <value>
         <option name="FOREGROUND" value="fa4b3d" />
       </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="a081e4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value />
     </option>
     <option name="XML_TAG_NAME">
       <value>
