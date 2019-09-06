@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="MAX_LOOKUP_WIDTH2" value="864" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
