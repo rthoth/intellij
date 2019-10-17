@@ -11,11 +11,4 @@
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
   </codeStyleSettings>
-  <codeStyleSettings language="kotlin">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>
