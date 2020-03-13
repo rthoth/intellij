@@ -1,5 +1,12 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="100" />
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="net.ceedubs.ficus.readers.namemappers.implicits.hyphenCase" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
