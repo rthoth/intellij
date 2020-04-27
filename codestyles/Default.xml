@@ -59,7 +59,7 @@
           <rule>
             <match>
               <AND>
-                <PUBLIC>true</PUBLIC>
+                <PUBLIC>false</PUBLIC>
                 <SCALA_FUNCTION />
               </AND>
             </match>
