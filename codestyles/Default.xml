@@ -281,14 +281,6 @@
         <section>
           <rule>
             <match>
-              <SCALA_OBJECT />
-            </match>
-            <order>BY_NAME</order>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
               <SCALA_TYPE />
             </match>
           </rule>
@@ -297,6 +289,14 @@
           <rule>
             <match>
               <CLASS>true</CLASS>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <SCALA_OBJECT />
             </match>
             <order>BY_NAME</order>
           </rule>
