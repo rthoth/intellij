@@ -241,6 +241,7 @@
             <match>
               <ENUM>true</ENUM>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -248,6 +249,7 @@
             <match>
               <INTERFACE>true</INTERFACE>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
