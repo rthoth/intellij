@@ -3,7 +3,7 @@
     <property name="created">2019-03-22T11:54:09</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2020-07-09T08:38:41</property>
+    <property name="modified">2020-08-07T14:22:18</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version)</property>
   </metaInfo>
   <colors>
@@ -1293,6 +1293,11 @@
     <option name="YAML_SCALAR_VALUE4">
       <value>
         <option name="FOREGROUND" value="e8d3d3" />
+      </value>
+    </option>
+    <option name="org.rust.MACRO">
+      <value>
+        <option name="FOREGROUND" value="ff8f0e" />
       </value>
     </option>
     <option name="osmorc$headerName">
