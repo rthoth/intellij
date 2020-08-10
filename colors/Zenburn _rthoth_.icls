@@ -3,7 +3,7 @@
     <property name="created">2019-03-22T11:54:09</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2020-08-07T14:22:18</property>
+    <property name="modified">2020-08-10T07:54:18</property>
     <property name="originalScheme">Zenburn (Based on the Emacs version)</property>
   </metaInfo>
   <colors>
@@ -1297,7 +1297,7 @@
     </option>
     <option name="org.rust.MACRO">
       <value>
-        <option name="FOREGROUND" value="ff8f0e" />
+        <option name="FOREGROUND" value="ffbd00" />
       </value>
     </option>
     <option name="osmorc$headerName">
