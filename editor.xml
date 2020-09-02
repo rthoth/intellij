@@ -14,6 +14,32 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Rust.chain-method.hints" />
+        <option value="Rust.rust.type.hints" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="annotation.hints" />
+    <settingsMapElement>
+      <Rust.rust.type.hints>
+        <Settings>
+          <option name="showForIterators" value="false" />
+          <option name="showForLambdas" value="false" />
+          <option name="showForPlaceholders" value="false" />
+          <option name="showForVariables" value="false" />
+        </Settings>
+      </Rust.rust.type.hints>
+      <Rust.chain-method.hints>
+        <Settings>
+          <option name="iteratorSpecialCase" value="false" />
+          <option name="showSameConsecutiveTypes" value="false" />
+        </Settings>
+      </Rust.chain-method.hints>
+    </settingsMapElement>
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseI18nMessages" value="false" />
