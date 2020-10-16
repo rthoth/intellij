@@ -21,7 +21,8 @@
         <option value="Rust.rust.type.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="annotation.hints" />
     <settingsMapElement>
       <Rust.rust.type.hints>
         <Settings>
