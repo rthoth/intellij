@@ -8,6 +8,8 @@
     </option>
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <arrangement>
       <rules>
         <section>
