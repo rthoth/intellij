@@ -22,7 +22,7 @@
       </set>
     </option>
     <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="annotation.hints" />
+    <option name="lastViewedProviderKeyId" value="docker.inlay.hints" />
     <settingsMapElement>
       <Rust.rust.type.hints>
         <Settings>
