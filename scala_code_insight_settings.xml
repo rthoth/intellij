@@ -1,6 +1,5 @@
 <application>
   <component name="ScalaCodeInsightSettings">
-    <option name="showTypeHints" value="false" />
     <option name="showFunctionReturnType" value="false" />
     <option name="showMethodChainInlayHints" value="false" />
   </component>
