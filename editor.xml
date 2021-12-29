@@ -6,11 +6,6 @@
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="Hack Nerd Font" />
-    <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
