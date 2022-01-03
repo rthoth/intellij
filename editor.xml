@@ -16,8 +16,7 @@
         <option value="Rust.rust.type.hints" />
       </set>
     </option>
-    <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="Scala.RangeHintsForToAndUntilSettingsModel" />
     <settingsMapElement>
       <Rust.rust.type.hints>
         <Settings>

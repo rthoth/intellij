@@ -2,5 +2,6 @@
   <component name="ScalaCodeInsightSettings">
     <option name="showFunctionReturnType" value="false" />
     <option name="showMethodChainInlayHints" value="false" />
+    <option name="showRangeHintsForToAndUntil" value="false" />
   </component>
 </application>
