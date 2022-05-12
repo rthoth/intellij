@@ -3,6 +3,8 @@
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
+        <option value="dott.Report" />
+        <option value="dott.Reporter.Reporter" />
         <option value="net.ceedubs.ficus.readers.namemappers.implicits.hyphenCase" />
       </array>
     </option>
