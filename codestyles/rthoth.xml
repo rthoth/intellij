@@ -5,6 +5,7 @@
       <array>
         <option value="dott.Report" />
         <option value="dott.Reporter.Reporter" />
+        <option value="mgalaxy.webapp.mapper.SimulationMapper" />
         <option value="net.ceedubs.ficus.readers.namemappers.implicits.hyphenCase" />
       </array>
     </option>
