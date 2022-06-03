@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="start" type="AUTO_DETECTED" />
+      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="sds" type="PLAIN_TEXT" />
@@ -10,6 +11,7 @@
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="protobuf" type="PLAIN_TEXT" />
+      <mapping ext="rs" type="Rust" />
       <mapping ext="template" type="Scala" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
