@@ -1,0 +1,57 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="SHOW_INTENTION_PREVIEW" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Rust.chain-method.hints" />
+        <option value="Rust.rust.type.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="Scala.RangeHintsForToAndUntilSettingsModel" />
+    <settingsMapElement>
+      <Rust.rust.type.hints>
+        <Settings>
+          <option name="showForIterators" value="false" />
+          <option name="showForLambdas" value="false" />
+          <option name="showForPlaceholders" value="false" />
+          <option name="showForVariables" value="false" />
+        </Settings>
+      </Rust.rust.type.hints>
+      <Rust.chain-method.hints>
+        <Settings>
+          <option name="iteratorSpecialCase" value="false" />
+          <option name="showSameConsecutiveTypes" value="false" />
+        </Settings>
+      </Rust.chain-method.hints>
+    </settingsMapElement>
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseI18nMessages" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="ScalaCodeFoldingSettings">
+    <option name="collapseShellComments" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_DATA_URI" value="false" />
+  </component>
+</application>

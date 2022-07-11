@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Scala/Type/Toggle Type Annotation" />
+  </component>
+</application>
