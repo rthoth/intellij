@@ -6,6 +6,7 @@
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
+        <option value="br.com.gbtech.repository.OfferCouponRepository" />
         <option value="dott.Report" />
         <option value="dott.Reporter.Reporter" />
         <option value="mgalaxy.webapp.mapper.SimulationMapper" />
