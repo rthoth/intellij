@@ -1,0 +1,20 @@
+<application>
+  <component name="aws">
+    <option name="profilesNotification" value="Always" />
+    <option name="promptedForTelemetry" value="true" />
+    <option name="telemetryEnabled" value="true" />
+    <option name="useDefaultCredentialRegion" value="Always" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="/usr/local/bin/sam" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1660748199549" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+</application>
