@@ -1,5 +1,13 @@
 <code_scheme name="rthoth" version="173">
   <option name="SOFT_MARGINS" value="120" />
+  <GroovyCodeStyleSettings>
+    <option name="USE_FQ_CLASS_NAMES" value="true" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
+  </GroovyCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
+  </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
